@@ -15,7 +15,7 @@ What is the correlation between salary 💰 and attrition?
 Which job roles 👔 have the highest turnover?
 How does attrition change based on years at the company ⏳?
 What is the gender distribution ⚤ of attrition?
-Dashboard Interaction: View Dashboard()
+Dashboard Interaction: View Dashboard(https://github.com/AnjaliPrakashan/Data-Analysis-HR-Analytics/blob/main/HR_Anjali.png)
 
 Process 🔄
 Cleaned data by removing inconsistencies 🧹 and categorizing attrition causes.
@@ -23,6 +23,7 @@ Visualized attrition trends 📊 based on age, gender, job roles, and salary bra
 Analyzed key insights 📉 to suggest strategies for improving retention.
 
 Dashboard 📊
+![HR_Anjali](https://github.com/user-attachments/assets/7b2175ab-1d84-4112-89cd-073229831fe1)
 
 
 Insights 💡
