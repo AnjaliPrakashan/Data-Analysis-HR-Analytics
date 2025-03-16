@@ -4,7 +4,7 @@ Project Objective 🎯
 The objective of this project is to analyze employee attrition patterns, identify key factors contributing to workforce turnover, and provide insights for improving employee retention. This dashboard helps HR teams make data-driven decisions to enhance employee satisfaction and reduce attrition.
 
 Dataset Used 📂
-HR Analytics Dashboard Dataset
+- [HR Aanlytics Dashboard Dataset]()
 
 Questions (KPIs) ❓
 What is the total employee count 🏢, and how many employees have left?
