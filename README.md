@@ -1,5 +1,5 @@
 
-# HR Analytics Dashboard 👨‍🌾📊
+# HR Analytics Dashboard 🤵‍♀️📊
 
 ## Project Objective 🎯
 The objective of this project is to analyze employee attrition patterns, identify key factors contributing to workforce turnover, and provide insights for improving employee retention. This dashboard helps HR teams make data-driven decisions to enhance employee satisfaction and reduce attrition.
@@ -40,6 +40,8 @@ The HR Analytics Dashboard highlights key trends in workforce attrition 📉, sh
 
 ## Contact Information 📞
 - **Email**: [anjaliprakashan1809@gmail.com](mailto:anjaliprakashan1809@gmail.com)
+  
 - **LinkedIn**: [Anjali Prakashan](https://www.linkedin.com/in/anjali-prakashan)
+  
 - **Feel free to reach out for any queries, feedback, or collaborations!**
 
