@@ -38,5 +38,7 @@ Conclusion 📝
 The HR Analytics Dashboard highlights key trends in workforce attrition 📉, showing that young employees in lower salary brackets are most likely to leave. High turnover in key roles like Laboratory Technician and Sales Executive suggests a need for better engagement strategies. These insights help HR teams optimize hiring, compensation 💲, and retention efforts.
 
 Contact Information 📞
-Email: YourEmail@example.com
-LinkedIn: Your LinkedIn Profile
+
+- **Email**: [anjaliprakashan1809@gmail.com](mailto:anjaliprakashan1809@gmail.com)
+
+- **LinkedIn**: [Anjali Prakashan](https://www.linkedin.com/in/anjali-prakashan)
