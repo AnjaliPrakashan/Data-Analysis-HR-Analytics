@@ -1,5 +1,5 @@
 
-# HR Analytics Dashboard 🤵‍♀️📊
+# HR Analytics Dashboard 🤵‍♀📊
 
 ## Project Objective 🎯
 The objective of this project is to analyze employee attrition patterns, identify key factors contributing to workforce turnover, and provide insights for improving employee retention. This dashboard helps HR teams make data-driven decisions to enhance employee satisfaction and reduce attrition.
